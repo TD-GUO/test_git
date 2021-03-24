@@ -1,0 +1,66 @@
+{
+	"payload": {
+		"additionalRiskCancellation": {
+			"passWord": "ZTMwNjEyMDg1NTU1ZjllOWNiMDA0OWZkMjU3YzgzMTQ=",
+			"rtFlag": "",
+			"sessioniAcctmn": "03",
+			"flag": "",
+			"sourBuss": "POS",
+			"orderNum": "",
+			"mop": "D",
+			"usid": "",
+			"effDate": "20210323",
+			"systemName": "10.146.60.1",
+			"csFlag": "PS",
+			"action": "A",
+			"csCode": "APOS",
+			"bosumalscCoverages": [{
+				"coverage": "02",
+				"rider": "00",
+				"crtable": "JCRA",
+				"life": "02"
+			}],
+			"zrepclmno": "CAACG20210119000041",
+			"csNum": "000000133566",
+			"prem": 0,
+			"sessioniLanguage": "S",
+			"zcardFlg": "",
+			"level": "LINTG",
+			"zdFlag": "",
+			"sessioniCompany": "3",
+			"acpNo": "CAACG2021011900004",
+			"userName": "GHOCMROCKY",
+			"adjustmentReason": "",
+			"autoBuildPay": "Y",
+			"pletFlag": "Y",
+			"sessioniAcctyr": "2021",
+			"spfCode": "",
+			"sessioniBranch": "10"
+		},
+		"policy": {
+			"role": "ALL",
+			"policyNumber": "310W0001458",
+			"accounts": {
+				"dcAccount": {
+					"bankCode": "",
+					"accountName": "",
+					"accountNo": "",
+					"accountType": "",
+					"cardType": "",
+					"customerId": ""
+				}
+			}
+		}
+	},
+	"timeNew": "1616477967930",
+	"transactionInfo": {
+		"transactionType": "",
+		"timeStamp": "",
+		"transactionMode": "Normal",
+		"sourceSystem": "OPERATING_SYSTEM",
+		"sign": "",
+		"requestDate": "2021-03-23 13:39:27",
+		"messageId": "08846348-de19-4cc2-8607-fa7f3037b68d"
+	},
+	"registerNo": "CAACG20210119000041"
+}
